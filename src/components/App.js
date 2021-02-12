@@ -32,7 +32,7 @@ class App extends Component{
         return(
         <>
             <div className = "container">
-                <BrowserRouter>
+                <BrowserRouter basename = "/MyBlogApp">
                 <HeadingComponent />
                 <MenuComponent menuList = {this.state.menuList}/>
                 <Switch>
