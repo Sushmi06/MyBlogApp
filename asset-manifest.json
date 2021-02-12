@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/MyBlogApp/static/css/main.49fba942.chunk.css",
+    "main.js": "/MyBlogApp/static/js/main.e6a25ce1.chunk.js",
+    "main.js.map": "/MyBlogApp/static/js/main.e6a25ce1.chunk.js.map",
+    "runtime-main.js": "/MyBlogApp/static/js/runtime-main.ad0336f3.js",
+    "runtime-main.js.map": "/MyBlogApp/static/js/runtime-main.ad0336f3.js.map",
+    "static/js/2.ea4ea188.chunk.js": "/MyBlogApp/static/js/2.ea4ea188.chunk.js",
+    "static/js/2.ea4ea188.chunk.js.map": "/MyBlogApp/static/js/2.ea4ea188.chunk.js.map",
+    "index.html": "/MyBlogApp/index.html",
+    "static/css/main.49fba942.chunk.css.map": "/MyBlogApp/static/css/main.49fba942.chunk.css.map",
+    "static/js/2.ea4ea188.chunk.js.LICENSE.txt": "/MyBlogApp/static/js/2.ea4ea188.chunk.js.LICENSE.txt",
+    "static/media/adventure.b660524e.jpg": "/MyBlogApp/static/media/adventure.b660524e.jpg",
+    "static/media/latestArticles.d45c4597.jpg": "/MyBlogApp/static/media/latestArticles.d45c4597.jpg",
+    "static/media/nature.0c60b574.jpg": "/MyBlogApp/static/media/nature.0c60b574.jpg",
+    "static/media/natures.45454429.jpg": "/MyBlogApp/static/media/natures.45454429.jpg",
+    "static/media/react.972bdb50.png": "/MyBlogApp/static/media/react.972bdb50.png",
+    "static/media/reactContent.d0d49c45.jpg": "/MyBlogApp/static/media/reactContent.d0d49c45.jpg",
+    "static/media/topStory.0f68a6d4.jpg": "/MyBlogApp/static/media/topStory.0f68a6d4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad0336f3.js",
+    "static/js/2.ea4ea188.chunk.js",
+    "static/css/main.49fba942.chunk.css",
+    "static/js/main.e6a25ce1.chunk.js"
+  ]
+}
