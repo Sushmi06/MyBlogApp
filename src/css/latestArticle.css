@@ -1,0 +1,19 @@
+.latest-article-item-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.latest-content{
+    text-align: justify;
+    font-size: small;
+}
+
+.latest-title{
+    font-size: larger;
+    font-weight: bold;
+}
+
+.latest-footer{
+    font-size: smaller;
+}

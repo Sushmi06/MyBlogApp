@@ -1,0 +1,29 @@
+.bollywood-container{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    margin-bottom:30px;
+}
+
+.content{
+    text-align: justify;
+    font-size: smaller;
+}
+
+.title{
+    font-size: medium;
+    font-weight: bold;
+}
+
+.footer{
+    font-size: smaller;
+}
+
+.bollywood{
+    margin-right:50px;
+}
+
+.topStory{
+    margin-left:50px;
+    margin-right:0px;
+}

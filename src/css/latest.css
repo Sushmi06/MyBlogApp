@@ -1,0 +1,24 @@
+.latest-container{
+    display:flex;
+    justify-content: space-between;
+}
+
+.latest-item-container{
+    display: inline-block;
+    width : 90%;
+    
+}
+
+.latest-content{
+    text-align: justify;
+    font-size: small;
+}
+
+.latest-title{
+    font-size: larger;
+    font-weight: bold;
+}
+
+.latest-footer{
+    font-size: smaller;
+}
